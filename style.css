@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: 'Segoe UI', sans-serif;
     background: linear-gradient(to bottom, rgba(255,255,255,0.95), rgba(0, 120, 255, 0.2)), 
-                url('https://thumbs.dreamstime.com/b/концепция-мо-еку-нейронов-и-нервной-системы-71655040.jpg') no-repeat center center fixed;
+                url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBH_A9a8Eo2PrLeJBsbVYQEwIn1XOTlNsh0w&s') no-repeat center center fixed;
     background-size: cover;
     color: #000;
   }
@@ -54,4 +54,5 @@ body {
     height: auto;
     border-radius: 20px;
     box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+
   }
